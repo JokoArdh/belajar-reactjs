@@ -1,0 +1,22 @@
+{
+    "blogs": [
+        {
+            "id": 1,
+            "title": "Blog Pertama",
+            "body": "Powerful, extensible, and feature-packed frontend toolkit. Build and customize with Sass, utilize prebuilt grid system and components, and bring projects to life with powerful JavaScript plugins.",
+            "author": "joko albin"
+          },
+          {
+            "id": 2,
+            "title": "Blog Kedua",
+            "body": "Powerful, extensible, and feature-packed frontend toolkit. Build and customize with Sass, utilize prebuilt grid system and components, and bring projects to life with powerful JavaScript plugins.",
+            "author": "tiyanni"
+          },
+          {
+            "id": 3,
+            "title": "Blog Ketiga",
+            "body": "Powerful, extensible, and feature-packed frontend toolkit. Build and customize with Sass, utilize prebuilt grid system and components, and bring projects to life with powerful JavaScript plugins.",
+            "author": "aryan"
+          }
+    ]
+}
